@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: GenerateRPEAction
+Bundle-SymbolicName: net.tadhara.rtc.workitemEditor.GenerateRPEAction;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: net.tadhara.jazz.workitemeditor.rtc.GenerateRPEAction
+Require-Bundle: com.ibm.team.workitem.web,
+ net.jazz.ajax

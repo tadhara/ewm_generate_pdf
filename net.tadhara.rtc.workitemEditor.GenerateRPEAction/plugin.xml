@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         point="net.jazz.ajax.webBundles">
+   </extension>
+   <extension
+         point="com.ibm.team.workitem.web.editorToolbarAction">
+      <action
+            action="net.tadhara.rtc.workitemEditor.GenerateRPEAction.ui.GenerateRPE"
+            id="net.tadhara.rtc.workitemEditor.GenerateRPEAction"
+            label="Generate RPE"
+            isMenuAction="true"
+            iconContext="net.tadhara.rtc.workitemEditor.GenerateRPEAction"
+            iconDisabledUri="images/icons/GenerateRPE.png"
+            iconUri="images/icons/GenerateRPE.png"
+            >
+      </action>
+   </extension>
+</plugin>
