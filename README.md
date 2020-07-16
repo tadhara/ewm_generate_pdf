@@ -46,3 +46,10 @@ Deploy just like any other update site:
 2. Delete previously deployed updatesite folder
 3. Follow the file extraction steps from the section above
 4. Restart the server
+
+## Contributing
+Please use the [Issue Tracker](https://github.com/tadhara/ewm_generate_pdf/issues) of this repository to report issues or suggest enhancements.
+
+## Licensing
+Copyright (c) Tadahiro Hara. All rights reserved.  
+Licensed under the [MIT](https://github.com/tadhara/ewm_generate_pdf/blob/master/LICENSE) License.
