@@ -47,6 +47,10 @@ Deploy just like any other update site:
 3. Follow the file extraction steps from the section above
 4. Restart the server
 
+
+## Cusomization
+You can re-design `GenerateRPE.dta` file by using Engineering Optimization Publishing Document Studio
+
 ## Contributing
 Please use the [Issue Tracker](https://github.com/tadhara/ewm_generate_pdf/issues) of this repository to report issues or suggest enhancements.
 
