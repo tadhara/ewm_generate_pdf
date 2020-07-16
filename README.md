@@ -1,4 +1,4 @@
-# Generate PDF Buton 
+# Generate PDF Button 
 This action button generates PDF file of work item with Engineering Optimization Publishing template in Engineering Workflow Management/Rational Team Concert.
 
 ![Overview](https://github.com/tadhara/ewm_generate_pdf/blob/master/doc/image/ButtonImage.png)
