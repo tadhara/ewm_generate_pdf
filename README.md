@@ -48,7 +48,7 @@ Deploy just like any other update site:
 4. Restart the server
 
 
-## Cusomization
+## Customization
 You can re-design `GenerateRPE.dta` file by using Engineering Optimization Publishing Document Studio
 
 ## Contributing
